@@ -1,16 +1,31 @@
-## Hi there 👋
+# <center>Hi 👋, I'm Damien Van Humbeeck<br>(a.k.a. DailyCraft)</center>
+### <center>Passionate Developer | Tech Enthusiast</center>
 
-<!--
-**DailyCraft/DailyCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love diving deep into systems, building robust applications, and learning new technologies. From low-level C to full-stack TypeScript, I enjoy crafting clean and efficient code.
 
-Here are some ideas to get you started:
+### Projects:
+I'm currently learning at [![42](https://img.shields.io/badge/42-black?style=for-the-badge&logo=42&logoColor=white)](https://42.fr) \
+I'm working on [![EduCPE](https://img.shields.io/badge/EduCPE-%23323330?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgd2lkdGg9IjI1NS45OTk5OCIKICAgaGVpZ2h0PSIyNTUuOTk5OTgiCiAgIHZpZXdCb3g9IjAgMCA2Ny43MzMzMjggNjcuNzMzMzI5IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmc1IgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnMyIiAvPgogIDxnCiAgICAgaWQ9ImxheWVyMiIKICAgICB0cmFuc2Zvcm09Im1hdHJpeCgwLjMzNTMwMjQ3LDAsMCwwLjMzNTMwMjQ3LDAuMDAzNTAyMjMsMCkiPgogICAgPHJlY3QKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiMwMDgwMDA7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjAuMjA4Nzc0IgogICAgICAgaWQ9InJlY3QyNzk4MyIKICAgICAgIHdpZHRoPSI1MC4wMDgzODUiCiAgICAgICBoZWlnaHQ9IjUwLjAwODM4NSIKICAgICAgIHg9IjEzLjUyMDk5NSIKICAgICAgIHk9Ijc2LjIwMTA2NSIKICAgICAgIHJ4PSIwLjAxODU5NjQ0NCIKICAgICAgIHJ5PSIwLjAxODU5NjQ0NCIgLz4KICAgIDxyZWN0CiAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmU7ZmlsbDojNWVjOTcwO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZS13aWR0aDowLjIwODc3NCIKICAgICAgIGlkPSJyZWN0Mjc5ODUiCiAgICAgICB3aWR0aD0iNTAuMDA4Mzg1IgogICAgICAgaGVpZ2h0PSI1MC4wMDgzODUiCiAgICAgICB4PSI3NS43ODYzNzciCiAgICAgICB5PSI3Ni4yMDEwNjUiCiAgICAgICByeD0iMC4wMTg1OTY0NDQiCiAgICAgICByeT0iMC4wMTg1OTY0NDQiIC8+CiAgICA8cGF0aAogICAgICAgaWQ9InBhdGgyNzk4NyIKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM1ZWM5NzA7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjAuMjA4Nzc0IgogICAgICAgZD0ibSAxMzguMDUxODYsODAuODQ4NDI2IHYgNDUuMjgyMTM0IGMgMCwwLjA0NDggMC4wMzUsMC4wNzc3IDAuMDc4NiwwLjA3NzcgaCA0OS44NTA1MyBjIDAuMDQzNiwwIDAuMDc5MiwtMC4wMzU5IDAuMDc5MiwtMC4wNzc3IFYgODAuODc1MDMgYSA0OC43ODk5MDcsNDguNzg5OTA3IDAgMCAxIC0yNC45ODIzNSw2Ljg5OTQ0OCA0OC43ODk5MDcsNDguNzg5OTA3IDAgMCAxIC0yNS4wMjYsLTYuOTI2MDUyIHoiIC8+CiAgICA8cmVjdAogICAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lO2ZpbGw6IzVlYzk3MDtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6ZXZlbm9kZDtzdHJva2Utd2lkdGg6MC4yMDg3NzQiCiAgICAgICBpZD0icmVjdDI3OTg5IgogICAgICAgd2lkdGg9IjUwLjAwODM4NSIKICAgICAgIGhlaWdodD0iNTAuMDA4Mzg1IgogICAgICAgeD0iMTM4LjA1MTczIgogICAgICAgeT0iMTM4LjQ2NjU4IgogICAgICAgcng9IjAuMDE4NTk2NDQ0IgogICAgICAgcnk9IjAuMDE4NTk2NDQ0IiAvPgogICAgPHJlY3QKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiMwMDgwMDA7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjAuMjA4Nzc0IgogICAgICAgaWQ9InJlY3QyNzk5MSIKICAgICAgIHdpZHRoPSI1MC4wMDgzODUiCiAgICAgICBoZWlnaHQ9IjUwLjAwODM4NSIKICAgICAgIHg9Ijc1Ljc4NjM3NyIKICAgICAgIHk9IjEzOC40NjY1OCIKICAgICAgIHJ4PSIwLjAxODU5NjQ0NCIKICAgICAgIHJ5PSIwLjAxODU5NjQ0NCIgLz4KICAgIDxyZWN0CiAgICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmU7ZmlsbDojNWVjOTcwO2ZpbGwtb3BhY2l0eToxO2ZpbGwtcnVsZTpldmVub2RkO3N0cm9rZS13aWR0aDowLjIwODc3NCIKICAgICAgIGlkPSJyZWN0Mjc5OTMiCiAgICAgICB3aWR0aD0iNTAuMDA4Mzg1IgogICAgICAgaGVpZ2h0PSI1MC4wMDgzODUiCiAgICAgICB4PSIxMy41MjA5OTUiCiAgICAgICB5PSIxMzguNDY2NTgiCiAgICAgICByeD0iMC4wMTg1OTY0NDQiCiAgICAgICByeT0iMC4wMTg1OTY0NDQiIC8+CiAgICA8cGF0aAogICAgICAgaWQ9InBhdGgyNzk5NSIKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiMwMDgwMDA7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLXdpZHRoOjAuMzkwMDMzIgogICAgICAgZD0ibSAxMy42MDAwNzQsMTMuOTM1NTE4IGMgLTAuMDQzNywwIC0wLjA3OTIsMC4wMzU4NyAtMC4wNzkyLDAuMDc3NzMgdiA0OS44NTAzNzYgYyAwLDAuMDQ0ODMgMC4wMzU2LDAuMDgwNzIgMC4wNzkyLDAuMDgwNzIgSCAxMjEuMTcyNTYgYSA0OC43ODk5MDcsNDguNzg5OTA3IDAgMCAxIC02Ljg4NDY1LC0yNC45NTk1NjkgNDguNzg5OTA3LDQ4Ljc4OTkwNyAwIDAgMSA2LjkzOTY5LC0yNS4wNDg5NTMgeiIgLz4KICAgIDxwYXRoCiAgICAgICBpZD0icGF0aDI3OTk3IgogICAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lO29wYWNpdHk6MTtmaWxsOiMwMDgwMDA7ZmlsbC1vcGFjaXR5OjE7c3Ryb2tlLXdpZHRoOjEuMTk1NTM7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1kYXNoYXJyYXk6Mi4zOTEwNywgNC43ODIxMSIKICAgICAgIGQ9Ik0gMTYzLjA0NDU5LDc3LjkwMzI1NCBBIDM4Ljk1MTQ5NiwzOC45NTE0OTYgMCAwIDAgMjAxLjk5NjIyLDM4Ljk1MTYyNCAzOC45NTE0OTYsMzguOTUxNDk2IDAgMCAwIDE2My4wNDQ1OSwwIGEgMzguOTUxNDk2LDM4Ljk1MTQ5NiAwIDAgMCAtMzguOTUxMjQsMzguOTUxNjI0IDM4Ljk1MTQ5NiwzOC45NTE0OTYgMCAwIDAgMzguOTUxMjQsMzguOTUxNjMgeiBtIDE4LjY5NzYyLC0xNS43NTEyMSBjIC0wLjgzNTA3LDAgLTEuNjc0NTksLTAuMjY4ODI3IC0yLjMzMDAyLC0wLjc5MTU0NiAtNS45MzI5NCwtNS41ODU2NDUgLTExLjY2NTcxLC0xMS4zNzg1NzcgLTE3LjM4MzcxLC0xNy4xODQwNjEgLTAuOTgwODYsLTEuMTY4NTA0IC0yLjM1NzY3LC0yLjAzOTIwNyAtMi45OTczOSwtMy40NjYzODIgLTAuMzc1ODIsLTEuNDQ1MDk4IC0wLjM1NjMyLC0yLjk3NTMyMSAtMC40MDcwMSwtNC40NjQ5MjQgLTAuMDM1NSwtMy44NzUzMDMgLTAuMDkxNCwtNy43NTMyODggMC4wMjk4LC0xMS42Mjc2OTIgMC4wODg3LC0xLjEwOTk2IDAuMDA5LC0yLjI0Nzk5NCAwLjI3MTIsLTMuMzM0MzU1IDAuNjAwNjgsLTEuODM3Mjg5IDIuNjE0OTEsLTMuMTczNjYgNC41NDQzNSwtMi44OTU4NzQgMS43MDUxNCwwLjI0MTk1OSAzLjI2ODQ2LDEuNTM1MDA2IDMuNTg4MSwzLjI2NTM2IDAuNDAwOTEsNS4xNzk3MTIgMC4xNTAyMywxMC4zODQ4MTEgMC4yMjg1MSwxNS41NzU1NjggNC44ODk1NSw0LjkxMjM3NSA5LjgxNzY3LDkuNzgyNjM2IDE0LjY3MDY5LDE0LjczMTE1OCAxLjM5MzgxLDEuNTkzMjUyIDMuMjU5NjIsMi45MzAyMjMgMy45NTM2Miw1LjAxMTU0NSAwLjY2MjU0LDIuNDA5ODg3IC0xLjM3OTc0LDQuOTgxOTc0IC0zLjgxMTAyLDUuMTY3NDYzIC0wLjExODYyLDAgLTAuMjM3NDQsMCAtMC4zNTY4OCwwIHoiIC8+CiAgPC9nPgo8L3N2Zz4K&logoColor=white)](https://educpe.fr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages:
+[![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
+[![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)](https://www.c-language.org/)
+[![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+### Tools:
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
+[![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)](https://openjfx.io/)
+[![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](https://socket.io/fr/)
+
+### IDEs:
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/fr-fr/idea/)
+[![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/fr-fr/clion/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
